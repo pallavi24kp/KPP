@@ -1,0 +1,30 @@
+git init
+mkdir p4
+cd p4
+git clone(p4)
+
+git clone(p5)
+ls
+cd p5
+ls
+cat README.md
+git status
+vi README.md
+git status
+git add .
+git status
+git commit -m"PMG"
+git push
+git pull
+git add .
+git commit -m"BIT"
+git pull
+git add .
+git push
+git log
+git log --show-signature
+
+
+
+
+
