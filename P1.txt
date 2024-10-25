@@ -1,0 +1,7 @@
+mkdir AI038
+cd AI038
+git config --global user.name"Pallavi"
+git config --global user.email"kppallavi712@gmail.com"
+git init
+git add abc.txt
+git commit -m"MY FIRST PROGRAM"
