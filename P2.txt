@@ -1,0 +1,7 @@
+git branch
+git checkout -b featurebranch
+git branch
+git add abc.txt
+git commit -m"Second Program"
+git checkout master
+git merge featurebranch
